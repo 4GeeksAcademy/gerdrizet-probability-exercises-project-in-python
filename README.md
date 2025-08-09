@@ -77,8 +77,7 @@ This project explores fundamental probability concepts through **Monte Carlo sim
 
 ```
 ├── .devcontainer/        # Development container configuration
-├── assets/               # Media and resource files
-│   └── preview.jpeg      # Project preview image
+├── assets/               # Images and other files
 │
 ├── notebooks/            # Jupyter notebook directory
 │   ├── assignment.ipynb  # Assignment notebook with exercises
